@@ -5,8 +5,9 @@ The constant growth in data generation, driven by technological advancement, hig
 # About the Authors
 
 -> André Fernando Rollwagen is a professor at the Federal Institute of Education, Science and Technology Sul-rio-grande, IFSUL, Brazil. He is pursuing a doctoral degree in computer science at the Pontifical Catholic University of Rio Grande do Sul, PUCRS. His research interests include visualization and visual analytics. 
+
 -> Isabel Harb Manssour earned a Ph.D. in Computer Science from the Federal University of Rio Grande do Sul in 2002. Currently, she is an associate professor at the School of Technology at the Pontifical Catholic University of Rio Grande do Sul (PUCRS), Brazil and is a fellow of the CNPq technological productivity scholarship (level 2). A member of the Postgraduate Program in Computer Science, Manssour advises undergraduate, master's, and Ph.D. students. Besides teaching algorithms, programming, and data visualization in undergraduate and graduate courses, she develops research projects funded by agencies and companies such as CNPq, FAPERGS, HP Brazil, and Petrobras. Her research interests include all areas of Visualization, Visual Analytics, and Computer Vision.
 
-# Naterial Description
+# Material Description
 
 -> Graphical Abstract: GraphicalAbstract.png
