@@ -10,4 +10,8 @@ The constant growth in data generation, driven by technological advancement, hig
 
 # Material Description
 
--> Graphical Abstract: GraphicalAbstract.png
+-> GraphicalAbstract.png - Graphical Abstract.
+
+-> Categorization of selected studies.xlsx - The electronic spreadsheet contains a categorization of selected studies involving data visualization recommendations, including the following information:
+
+Paper identification; study title; link on GitHub/Web - link to presentation or availability of the study on Github or website; authors; publication year; visualization recommendation tools mentioned in the studies; visualization tools mentioned; visualization techniques used; URL to access the study; abstract of study; search bases; type of contribution - (1: tool development for visualization recommendation, 2: evaluative framework development, 3: design of new methodologies, or 4: evaluation of tools); journal/conference whose study was selected; region of location of the institutions to which the authors are linked; recommendation method (automatic or semiautomatic).
